@@ -1,0 +1,2 @@
+# Bookish.com
+ Bookish.com – an online bookstore where users can browse, review, and purchase a wide variety of books. This project has been a labor of love, combining my passion for reading with my skills in web development. About the Project  Bookish.com is built using the MERN stack, a powerful combination of technologies that includes MongoDB, Express.js, React, and Node.js. Each component of the stack played a crucial role in the development of this platform.
